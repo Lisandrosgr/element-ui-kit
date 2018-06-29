@@ -2,8 +2,6 @@
 Element is the open source design system developed by <a href="https://www.hydrogenplatform.com">Hydrogen</a> to help designers around the globe visualize digital financial products. The UI Kit encompasses color palettes, icons, visualizations and examples of core components such as onboarding flows and dashboards.
 
 <img src="https://github.com/hydrogen-dev/element-ui-kit/blob/master/img/components.png" width="700">
-<img src="https://github.com/hydrogen-dev/element-ui-kit/blob/master/img/analytics.png" width="500">
-<img src="https://github.com/hydrogen-dev/element-ui-kit/blob/master/img/screener.png" width="500">
 
 ## Installation
 1. Download <a href="https://www.sketchapp.com/updates/">Sketch</a> (version 50+ required)
