@@ -8,6 +8,7 @@ Element is the open source design system developed by <a href="https://www.hydro
 ## Installation
 1. Download <a href="https://www.sketchapp.com/updates/">Sketch</a> (version 50+ required)
 2. Download the <a href="https://github.com/hydrogen-dev/element-ui-kit/raw/master/Hydrogen_Element_UI_Kit.sketch">Element UI Kit</a>
+3. We also recommend downloading the <a href="https://fonts.google.com/specimen/Muli">Google Font Muli</a>, as it is included in the library
 
 ## Usage
 The Sketch file containes 6 pages: Icons, Components, Onboarding, Analytics, Dashboards, Symbols
